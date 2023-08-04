@@ -1,0 +1,19 @@
+@font-face {
+  font-family: leviWindows; 
+  src:
+  url("/imports/assets/Windows\ Regular.ttf"),
+}
+
+@font-face {
+  font-family: 'levi-windows';
+    src: url('/fonts/levi-windows.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+ }
+
+body {
+  padding: 10px;
+  font-family: 'levi-windows';
+  color: white;
+  background-color: #008081;
+}
